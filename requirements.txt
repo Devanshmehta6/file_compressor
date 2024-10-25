@@ -1,4 +1,12 @@
 PyPDF2==3.0.1
-gunicorn
+asgiref==3.7.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
 Django
-rest_framework
+idna==3.6
+requests==2.31.0
+sqlparse==0.4.4
+tzdata==2023.4
+urllib3==2.2.0
+gunicorn 
+django-cors-headers 
